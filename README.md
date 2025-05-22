@@ -11,9 +11,5 @@
 - 🗄️ Database: MongoDB, PostgreSQL, MySQL
 - ☁️ DevOps: AWS (EC2, S3), Docker, GCP
 
-## 👨‍💻 Coding Profiles
-- [LeetCode](https://leetcode.com/u/jags30/)
-- [HackerRank](https://www.hackerrank.com/profile/jigneshgurav11)
-
 ## 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/jigneshgurav/)
