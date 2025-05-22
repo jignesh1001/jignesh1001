@@ -6,7 +6,7 @@
 
 ## 🔧 Tech Stack
 - 💻 Languages: JavaScript, TypeScript,Python, SQL
-- 🌐 Frontend: React.js, Vite
+- 🌐 Frontend: React.js
 - 🛠️ Backend: Node.js, Express.js, NestJS
 - 🗄️ Database: MongoDB, PostgreSQL, MySQL
 - ☁️ DevOps: AWS (EC2, S3), Docker,GCP
