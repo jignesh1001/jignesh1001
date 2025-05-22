@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jignesh 👋
 
-<!--
-**jignesh1001/jignesh1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Graduate  
+💼 Software Developer | MERN Stack | NestJS | Node.js | TypeScript  
+🚀 Passionate about full-stack web development and building scalable backend systems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 💻 Languages: JavaScript, TypeScript,Python, SQL
+- 🌐 Frontend: React.js, Vite
+- 🛠️ Backend: Node.js, Express.js, NestJS
+- 🗄️ Database: MongoDB, PostgreSQL, MySQL
+- ☁️ DevOps: AWS (EC2, S3), Docker,GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/jigneshgurav/) 
