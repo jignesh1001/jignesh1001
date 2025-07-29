@@ -5,7 +5,6 @@
 🚀 Passionate about full-stack web development and building scalable backend systems.
 
 ## 🔧 Tech Stack
-- 💻 Languages: JavaScript, TypeScript, Python, SQL
 - 🌐 Frontend: React.js
 - 🛠️ Backend: Node.js, Express.js, NestJS
 - 🗄️ Database: MongoDB, PostgreSQL, MySQL
